@@ -45,3 +45,4 @@ input
 *-sessions
 .pytest_cache
 .venv
+.env
