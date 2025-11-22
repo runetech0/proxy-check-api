@@ -46,3 +46,4 @@ input
 .pytest_cache
 .venv
 .env
+ecosystem.config.js
